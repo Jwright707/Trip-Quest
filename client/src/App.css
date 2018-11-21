@@ -1,0 +1,34 @@
+.App-Header {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-ser;
+  font-style: italic;
+  font-size: 15vh;
+}
+
+.App {
+  text-align: center;
+  background-color: white;
+  z-index: 1;
+  margin-bottom: 5%;
+}
+
+.LineBreak {
+  opacity: 0.3;
+  margin-bottom: -5%;
+}
+
+.centerPage {
+  /* height: 75vh; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#CopyRight {
+  font-size: 70%;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  z-index: -1;
+}

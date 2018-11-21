@@ -1,0 +1,24 @@
+.card-title {
+  padding-top: 3%;
+  font-size: 120%;
+}
+.startQuest {
+  padding: 1.1%;
+  background-color: white;
+  font-family: Ultra;
+  font-size: 4vh;
+  font-weight: 400;
+}
+
+.sub-header {
+  font-size: 6vh;
+}
+
+.startQuest:hover {
+  opacity: 0.8;
+  color: green;
+}
+
+.Card {
+  height: 105%;
+}

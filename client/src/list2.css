@@ -1,0 +1,12 @@
+.ListItem:hover {
+  color: green;
+  text-decoration: underline;
+}
+
+.ListItem {
+  padding: 2%;
+}
+
+.ListGroup {
+  padding: 1%;
+}

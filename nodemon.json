@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_URL": "mongodb://joshuaaguilar20:J0shua11@ds113122.mlab.com:13122/email-dev",
+        "PORT": "5000"
+    }
+}
